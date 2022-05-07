@@ -7,7 +7,7 @@ A little script that scrapes data from web to get data like names, personality t
 1. Get the info using the scripts to scrape the data.
 2. Boom run the main script and generate some random characters for a writing challenge. 
 
-###Notes
+### Notes
 Pretty simple script. Not much to it, was a lot of fun to build.
 
 Send me a message on twitter [@melockchain](https://twitter.com/melockchain) for any comments on how I can improve it or feature ideas.
